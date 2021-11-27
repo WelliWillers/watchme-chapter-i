@@ -1,7 +1,6 @@
 <div id="sobre"> 
   <h1>:purple_circle: WatchMe</h1>
-  
-  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/WelliWillers/watchme-chapter-i/blob/main/LICENSE)
+
   <p>
     Este projeto foi o segundo desafio do curso Ignite oferecido pela Rocketseat no Chapter I.
     Consite em por em prática o que aprendemos durates o chapter I do curso e nos desafiar um pouco a mais, nele foi realizado:
@@ -9,6 +8,8 @@
     - Criação de um contentx para armazenar algumas informações;
     - Criação de um Hook.
   </p>
+  
+  <img src="https://welliwillers.github.io/portfolio/img/capawatchme.png">
 </div>
 
 
